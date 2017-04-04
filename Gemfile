@@ -56,3 +56,4 @@ gem 'xmlrpc'
 gem 'carrierwave', '~> 1.0'
 gem "mini_magick"
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'stripe'
